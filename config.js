@@ -1,0 +1,7 @@
+(function() {
+  window._POSTHOG_REMOTE_CONFIG = window._POSTHOG_REMOTE_CONFIG || {};
+  window._POSTHOG_REMOTE_CONFIG['phc_Kyz2zksZFzeYkDkECODTmfoaoBYvacWZ24ho1DEhy6i'] = {
+    config: {"token": "phc_Kyz2zksZFzeYkDkECODTmfoaoBYvacWZ24ho1DEhy6i", "supportedCompression": ["gzip", "gzip-js"], "hasFeatureFlags": true, "captureDeadClicks": true, "capturePerformance": {"network_timing": true, "web_vitals": true, "web_vitals_allowed_metrics": null}, "autocapture_opt_out": true, "autocaptureExceptions": true, "analytics": {"endpoint": "/i/v0/e/"}, "elementsChainAsString": true, "errorTracking": {"autocaptureExceptions": true, "suppressionRules": []}, "sessionRecording": {"endpoint": "/s/", "consoleLogRecordingEnabled": true, "recorderVersion": "v2", "sampleRate": null, "minimumDurationMilliseconds": null, "linkedFlag": null, "networkPayloadCapture": null, "masking": null, "urlTriggers": [{"url": "^https://super.myninja.ai/$", "matching": "regex"}], "urlBlocklist": [], "eventTriggers": [], "triggerMatchType": null, "scriptConfig": {"script": "posthog-recorder"}}, "heatmaps": true, "conversations": false, "surveys": false, "productTours": false, "defaultIdentifiedOnly": true},
+    siteApps: []
+  }
+})();
